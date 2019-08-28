@@ -32,12 +32,11 @@ vars:
 modules:
   activate:
   - getting-started
-  - spring-boot
   - inventory-api
   - inventory-spring-boot-gradle
-  - inventory-spring-boot-gradle-metrics
   - inventory-spring-boot-gradle-cicd
   - inventory-spring-boot-gradle-implementation
+  - inventory-spring-boot-gradle-metrics
   - inventory-spring-boot-gradle-config
   - health
   - fault-tolerance
