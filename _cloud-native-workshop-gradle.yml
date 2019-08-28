@@ -32,10 +32,7 @@ vars:
 modules:
   activate:
   - getting-started
-  - wildfly-swarm
   - spring-boot
-  - vertx
-  - nodejs
   - inventory-api
   - inventory-spring-boot-gradle
   - inventory-spring-boot-gradle-metrics
@@ -44,7 +41,5 @@ modules:
   - inventory-spring-boot-gradle-config
   - health
   - fault-tolerance
-  - app-config
-  - continuous-delivery
   - debug
   - env-info
